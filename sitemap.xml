@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://debellisdylan5-lang.github.io/kw-golf-lifestyles/concept/communities/</loc>
-    <lastmod>2026-08-27T13:42:35.514Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://debellisdylan5-lang.github.io/kw-golf-lifestyles/concept/agents/</loc>
-    <lastmod>2026-08-27T13:42:29.683Z</lastmod>
+    <loc>https://debellisdylan5-lang.github.io/kw-golf-lifestyles/</loc>
+    <lastmod>2026-08-27T15:02:00.092Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://debellisdylan5-lang.github.io/kw-golf-lifestyles/concept/</loc>
-    <lastmod>2026-08-27T13:42:24.042Z</lastmod>
+    <lastmod>2026-08-27T15:01:16.327Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://debellisdylan5-lang.github.io/kw-golf-lifestyles/concept/agents/</loc>
+    <lastmod>2026-08-27T14:52:34.846Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://debellisdylan5-lang.github.io/kw-golf-lifestyles/concept/communities/</loc>
+    <lastmod>2026-08-27T14:52:13.724Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://debellisdylan5-lang.github.io/kw-golf-lifestyles/agents/</loc>
     <lastmod>2026-08-27T13:42:18.151Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://debellisdylan5-lang.github.io/kw-golf-lifestyles/</loc>
-    <lastmod>2026-08-27T13:42:12.396Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
